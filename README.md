@@ -26,4 +26,4 @@
   ##
   
   
-  <div align="center"><img height="150em" src="https://i.pinimg.com/originals/22/7a/da/227ada9f2a592f6e4560a25044f7694c.gif"></img></div>
+ 
